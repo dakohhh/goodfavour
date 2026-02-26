@@ -9,13 +9,15 @@ export function Contact() {
         <div className="contact__info">
           <ul className="contact__details">
             <li>
-              <strong>Location:</strong> [Your Office Address]
+              <strong>Location:</strong> 35 Stoneycroft Close, London SE12 0SN
             </li>
             <li>
-              <strong>Phone:</strong> [Your Phone Number]
+              <strong>Phone:</strong>{' '}
+              <a href="tel:+447958412631">+44 7958 412631</a>
             </li>
             <li>
-              <strong>Email:</strong> [Your Email Address]
+              <strong>Email:</strong>{' '}
+              <a href="mailto:yemiba@yahoo.com">yemiba@yahoo.com</a>
             </li>
             <li>
               <strong>Website:</strong>{' '}

@@ -41,7 +41,7 @@
   color: #fff;
   font-size: clamp(2rem, 5vw, 3.25rem);
   max-width: 18ch;
-  margin-inline: auto 0.5em;
+  margin-inline: auto;
   margin-bottom: 1rem;
 }
 
@@ -49,7 +49,7 @@
   font-size: clamp(1rem, 2vw, 1.25rem);
   color: rgba(255, 255, 255, 0.9);
   max-width: 42ch;
-  margin-inline: auto 2rem;
+  margin-inline: auto;
   margin-bottom: 2rem;
   line-height: 1.6;
 }
